@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vishwakarma Sumant
 
-### MCA Student • Web Developer • Python & Machine Learning Enthusiast
+### MCA Student • Web Developer • Java • Python & Machine Learning Enthusiast
 
 <p>
   <a href="https://vsumant640.github.io">🌐 Portfolio</a> •
