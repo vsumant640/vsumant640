@@ -31,21 +31,31 @@ I enjoy turning academic requirements into working applications and continuously
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Java` `Python` `JavaScript` `PHP` `HTML5` `CSS3`
+### 💻 Programming & Web Development
 
-### Web & Backend
-`HTML` `CSS` `JavaScript` `Bootstrap` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java&perline=6" />
+</p>
 
-### Databases
-`MySQL` `MongoDB`
+### 🗄️ Database & Backend
 
-### Data & Machine Learning
-`Python` `Pandas` `NumPy` `Scikit-learn`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" />
+</p>
 
-### Tools
-`Git` `GitHub` `VS Code` `Eclipse` `XAMPP` `MySQL Workbench` `Power BI`
+### 🔧 Tools & Technologies
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,bootstrap&perline=6" />
+</p>
+
+### 📊 Data & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+</p>
+
+**Also familiar with:** `Pandas` `NumPy` `Scikit-learn` `Power BI` `XAMPP` `MySQL Workbench`
 ---
 
 ## 🚀 Featured Projects
